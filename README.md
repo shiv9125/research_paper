@@ -1,4 +1,4 @@
-
+# fault tolerance in cloud
 ****fault tolerance in cloud****
 Fault tolerance refers to the ability of a system (computer, network, cloud cluster, etc.) to continue operating without interruption when one or more of its components fail.
 
